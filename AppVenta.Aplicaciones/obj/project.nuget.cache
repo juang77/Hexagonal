@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RhflNoPboJgSZXoiNG9ViiyCyFRxHp2CPG+sgJhGBt2zNce6rPorJBGBMvRzSnMYpVbC8m4nXp3KlWa3BSS9hg==",
+  "success": true,
+  "projectFilePath": "E:\\C#Practice\\Hexagonal\\AppVenta.Aplicaciones\\AppVenta.Aplicaciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
