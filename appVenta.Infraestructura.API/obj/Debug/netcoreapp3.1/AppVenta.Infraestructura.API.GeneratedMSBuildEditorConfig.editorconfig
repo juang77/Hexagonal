@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AppVenta.Infraestructura.API
+build_property.ProjectDir = E:\C#Practice\Hexagonal\AppVenta.Infraestructura.API\

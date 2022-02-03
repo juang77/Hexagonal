@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wO9giuet3R+TbUrpaa4Pb2GTw6P+/GZmq3meQjmsS+W7c8PMUgRatSID2PiGfdkTSqviP9D5BLLGsh4I8gBbvg==",
+  "dgSpecHash": "2xaz/dDQz5HGeGfrnwgAhfZif26xCHQZ0iXdctV+HntxYfzzgSPwJ/LXn3nrPnj0JCrfZEO9xO70jgaAtFwRJA==",
   "success": true,
   "projectFilePath": "E:\\C#Practice\\Hexagonal\\AppVenta.Infraestructura.Datos\\AppVenta.Infraestructura.Datos.csproj",
   "expectedPackageFiles": [
@@ -97,8 +97,7 @@
     "C:\\Users\\juang\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\juang\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\juang\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\juang\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\juang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\juang\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

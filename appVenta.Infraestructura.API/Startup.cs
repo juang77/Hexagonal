@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace appVenta.Infraestructura.API
+namespace AppVenta.Infraestructura.API
 {
     public class Startup
     {

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2exEYJ1899S3eGQKxtA/ioGLpNSB/cto4fq+aEcijmiIbNmzoa4f6IExqql84Tk4hPUoKQQkdy71I00QbPj7xA==",
+  "dgSpecHash": "hXEwIrzaeOOgLuYLv9uSoq00S37GixFofo1KxvzuWej6dMUMg4nNCDgUt31/ucrMtpUoReqd5qfJeF8XhaP8Mg==",
   "success": true,
   "projectFilePath": "E:\\C#Practice\\Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\juang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

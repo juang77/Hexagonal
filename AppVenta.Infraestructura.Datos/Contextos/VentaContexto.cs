@@ -12,8 +12,7 @@ namespace AppVenta.Infraestructura.Datos.Contextos
         public DbSet<VentaDetalle> VentaDetalles { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options) {
-            options.UseSqlServer(@"Server=localhost;Database=master;Trusted_Connection=True;");
-
+            options.UseSqlServer(@"Data Source=localhost;Initial Catalog=VentasDB;Integrated Security = true;");
         }
 
         protected override void OnModelCreating(ModelBuilder builder) {

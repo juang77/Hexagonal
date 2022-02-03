@@ -5764,11 +5764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#Practice\\Hexagonal\\appVenta.Infraestructura.API\\appVenta.Infraestructura.API.csproj",
-      "projectName": "appVenta.Infraestructura.API",
-      "projectPath": "E:\\C#Practice\\Hexagonal\\appVenta.Infraestructura.API\\appVenta.Infraestructura.API.csproj",
+      "projectUniqueName": "E:\\C#Practice\\Hexagonal\\AppVenta.Infraestructura.API\\AppVenta.Infraestructura.API.csproj",
+      "projectName": "AppVenta.Infraestructura.API",
+      "projectPath": "E:\\C#Practice\\Hexagonal\\AppVenta.Infraestructura.API\\AppVenta.Infraestructura.API.csproj",
       "packagesPath": "C:\\Users\\juang\\.nuget\\packages\\",
-      "outputPath": "E:\\C#Practice\\Hexagonal\\appVenta.Infraestructura.API\\obj\\",
+      "outputPath": "E:\\C#Practice\\Hexagonal\\AppVenta.Infraestructura.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5822,12 +5822,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.18, 3.1.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5836,7 +5830,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,14 @@
+E:\C#Practice\Hexagonal\AppVenta.Dominio\bin\Debug\netcoreapp3.1\AppVenta.Dominio.exe
+E:\C#Practice\Hexagonal\AppVenta.Dominio\bin\Debug\netcoreapp3.1\AppVenta.Dominio.deps.json
+E:\C#Practice\Hexagonal\AppVenta.Dominio\bin\Debug\netcoreapp3.1\AppVenta.Dominio.runtimeconfig.json
+E:\C#Practice\Hexagonal\AppVenta.Dominio\bin\Debug\netcoreapp3.1\AppVenta.Dominio.runtimeconfig.dev.json
+E:\C#Practice\Hexagonal\AppVenta.Dominio\bin\Debug\netcoreapp3.1\AppVenta.Dominio.dll
+E:\C#Practice\Hexagonal\AppVenta.Dominio\bin\Debug\netcoreapp3.1\AppVenta.Dominio.pdb
+E:\C#Practice\Hexagonal\AppVenta.Dominio\obj\Debug\netcoreapp3.1\AppVenta.Dominio.csproj.AssemblyReference.cache
+E:\C#Practice\Hexagonal\AppVenta.Dominio\obj\Debug\netcoreapp3.1\AppVenta.Dominio.AssemblyInfoInputs.cache
+E:\C#Practice\Hexagonal\AppVenta.Dominio\obj\Debug\netcoreapp3.1\AppVenta.Dominio.AssemblyInfo.cs
+E:\C#Practice\Hexagonal\AppVenta.Dominio\obj\Debug\netcoreapp3.1\AppVenta.Dominio.csproj.CoreCompileInputs.cache
+E:\C#Practice\Hexagonal\AppVenta.Dominio\obj\Debug\netcoreapp3.1\AppVenta.Dominio.dll
+E:\C#Practice\Hexagonal\AppVenta.Dominio\obj\Debug\netcoreapp3.1\AppVenta.Dominio.pdb
+E:\C#Practice\Hexagonal\AppVenta.Dominio\obj\Debug\netcoreapp3.1\AppVenta.Dominio.genruntimeconfig.cache
+E:\C#Practice\Hexagonal\AppVenta.Dominio\obj\Debug\netcoreapp3.1\AppVenta.Dominio.GeneratedMSBuildEditorConfig.editorconfig
